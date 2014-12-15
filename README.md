@@ -5,3 +5,4 @@ jpub-book-test
 - feature-A
 - fix-b
 - feature-C
+- feature-D
